@@ -49,7 +49,7 @@
         <div id="mdlRecuperarContrasena" tabindex="-1" role="dialog" aria-labelledby="mdlRecuperarContrasenaLabel" aria-hidden="true" class="modal fade">
             <div class="modal-dialog">
                 <div class="modal-content">
-                    <div class="modal-header">
+                    <div class="modal-header bg-primary">
                         <button type="button" data-dismiss="modal" aria-label="Close" class="close">
                             <span aria-hidden="true">×</span>
                         </button>
